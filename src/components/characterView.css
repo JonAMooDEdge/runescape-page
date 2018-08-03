@@ -1,0 +1,6 @@
+.skill-matrix {
+    flex-wrap: wrap;
+    width: 30%;
+    text-align: left;
+    padding-left: 1em
+}

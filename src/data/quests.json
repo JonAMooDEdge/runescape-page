@@ -2,8 +2,8 @@
   {
     "name":"Black Knights' Fortress",
     "members":"No",
-    "difficulty":"Novice",
-    "length":"Short",
+    "difficulty":1,
+    "length":1,
     "skillReqs": {
       "questpoints":12
     },
@@ -12,32 +12,32 @@
   {
     "name":"Cook's Assistant",
     "members":"No",
-    "difficulty":"Novice",
-    "length":"Short",
+    "difficulty":1,
+    "length":1,
     "skillReqs": {},
     "questReqs": []
   },
   {
     "name":"The Corsair Curse",
     "members":"No",
-    "difficulty":"Novice",
-    "length":"Short",
+    "difficulty":1,
+    "length":1,
     "skillReqs": {},
     "questReqs": []
   },
   {
     "name":"Demon Slayer",
     "members":"No",
-    "difficulty":"Novice",
-    "length":"Medium",
+    "difficulty":1,
+    "length":2,
     "skillReqs": {},
     "questReqs": []
   },
   {
     "name":"Doric's Quest",
     "members":"No",
-    "difficulty":"Novice",
-    "length":"Short",
+    "difficulty":1,
+    "length":1,
     "skillReqs": {
       "mining":15
     },
@@ -46,8 +46,8 @@
   {
     "name":"Dragon Slayer",
     "members":"No",
-    "difficulty":"Experienced",
-    "length":"Long",
+    "difficulty":3,
+    "length":3,
     "skillReqs": {
       "crafting":8,
       "questpoints":32
@@ -57,32 +57,32 @@
   {
     "name":"Ernest the Chicken",
     "members":"No",
-    "difficulty":"Novice",
-    "length":"Short",
+    "difficulty":1,
+    "length":1,
     "skillReqs": {},
     "questReqs": []
   },
   {
     "name":"Goblin Diplomacy",
     "members":"No",
-    "difficulty":"Novice",
-    "length":"Short",
+    "difficulty":1,
+    "length":1,
     "skillReqs": {},
     "questReqs": []
   },
   {
     "name":"Imp Catcher",
     "members":"No",
-    "difficulty":"Novice",
-    "length":"Short",
+    "difficulty":1,
+    "length":1,
     "skillReqs": {},
     "questReqs": []
   },
   {
     "name":"The Knight's Sword",
     "members":"No",
-    "difficulty":"Intermediate",
-    "length":"Medium",
+    "difficulty":2,
+    "length":2,
     "skillReqs": {
       "mining":10
     },
@@ -91,88 +91,88 @@
   {
     "name":"Misthalin Mystery",
     "members":"No",
-    "difficulty":"Novice",
-    "length":"Medium",
+    "difficulty":1,
+    "length":2,
     "skillReqs": {},
     "questReqs": []
   },
   {
     "name":"Pirate's Treasure",
     "members":"No",
-    "difficulty":"Novice",
-    "length":"Short",
+    "difficulty":1,
+    "length":1,
     "skillReqs": {},
     "questReqs": []
   },
   {
     "name":"Prince Ali Rescue",
     "members":"No",
-    "difficulty":"Novice",
-    "length":"Short",
+    "difficulty":1,
+    "length":1,
     "skillReqs": {},
     "questReqs": []
   },
   {
     "name":"The Restless Ghost",
     "members":"No",
-    "difficulty":"Novice",
-    "length":"Short",
+    "difficulty":1,
+    "length":1,
     "skillReqs": {},
     "questReqs": []
   },
   {
     "name":"Romeo & Juliet",
     "members":"No",
-    "difficulty":"Novice",
-    "length":"Short",
+    "difficulty":1,
+    "length":1,
     "skillReqs": {},
     "questReqs": []
   },
   {
     "name":"Rune Mysteries",
     "members":"No",
-    "difficulty":"Novice",
-    "length":"Short",
+    "difficulty":1,
+    "length":1,
     "skillReqs": {},
     "questReqs": []
   },
   {
     "name":"Sheep Shearer",
     "members":"No",
-    "difficulty":"Novice",
-    "length":"Short",
+    "difficulty":1,
+    "length":1,
     "skillReqs": {},
     "questReqs": []
   },
   {
     "name":"Shield of Arrav",
     "members":"No",
-    "difficulty":"Novice",
-    "length":"Medium",
+    "difficulty":1,
+    "length":2,
     "skillReqs": {},
     "questReqs": []
   },
   {
     "name":"Vampire Slayer",
     "members":"No",
-    "difficulty":"Novice",
-    "length":"Short",
+    "difficulty":1,
+    "length":1,
     "skillReqs": {},
     "questReqs": []
   },
   {
     "name":"Witch's Potion",
     "members":"No",
-    "difficulty":"Novice",
-    "length":"Short",
+    "difficulty":1,
+    "length":1,
     "skillReqs": {},
     "questReqs": []
   },
   {
     "name":"Animal Magnetism",
     "members":"Yes",
-    "difficulty":"Intermediate",
-    "length":"Medium",
+    "difficulty":2,
+    "length":2,
     "skillReqs": {
       "slayer":18,
       "crafting":19,
@@ -184,8 +184,8 @@
   {
     "name":"Another Slice of H.A.M.",
     "members":"Yes",
-    "difficulty":"Intermediate",
-    "length":"Medium",
+    "difficulty":2,
+    "length":2,
     "skillReqs": {
       "attack":15,
       "prayer":25
@@ -195,8 +195,8 @@
   {
     "name":"Between a Rock...",
     "members":"Yes",
-    "difficulty":"Experienced",
-    "length":"Medium",
+    "difficulty":3,
+    "length":2,
     "skillReqs": {
       "defence":30,
       "mining":40,
@@ -207,8 +207,8 @@
   {
     "name":"Big Chompy Bird Hunting",
     "members":"Yes",
-    "difficulty":"Intermediate",
-    "length":"Short",
+    "difficulty":2,
+    "length":1,
     "skillReqs": {
       "fletching":5,
       "cooking":30,
@@ -219,24 +219,24 @@
   {
     "name":"Biohazard",
     "members":"Yes",
-    "difficulty":"Novice",
-    "length":"Medium",
+    "difficulty":1,
+    "length":2,
     "skillReqs": {},
     "questReqs": ["Plague City"]
   },
   {
     "name":"Bone Voyage",
     "members":"Yes",
-    "difficulty":"Intermediate",
-    "length":"Short",
+    "difficulty":2,
+    "length":1,
     "skillReqs": {},
     "questReqs": ["The Dig Site"]
   },
   {
     "name":"Cabin Fever",
     "members":"Yes",
-    "difficulty":"Experienced",
-    "length":"Medium",
+    "difficulty":3,
+    "length":2,
     "skillReqs": {
       "agility":42,
       "crafting":45,
@@ -248,24 +248,24 @@
   {
     "name":"Client of Kourend",
     "members":"Yes",
-    "difficulty":"Novice",
-    "length":"Medium",
+    "difficulty":1,
+    "length":2,
     "skillReqs": {},
     "questReqs": []
   },
   {
     "name":"Clock Tower",
     "members":"Yes",
-    "difficulty":"Novice",
-    "length":"Short",
+    "difficulty":1,
+    "length":1,
     "skillReqs": {},
     "questReqs": []
   },
   {
     "name":"Cold War",
     "members":"Yes",
-    "difficulty":"Intermediate",
-    "length":"Medium",
+    "difficulty":2,
+    "length":2,
     "skillReqs": {
       "hunter":10,
       "agility":30,
@@ -278,16 +278,16 @@
   {
     "name":"Contact!",
     "members":"Yes",
-    "difficulty":"Master",
-    "length":"Medium",
+    "difficulty":4,
+    "length":2,
     "skillReqs": {},
     "questReqs": ["Prince Ali Rescue","Icthlarin's Little Helper","Gertrude's Cat"]
   },
   {
     "name":"Creature of Fenkenstrain",
     "members":"Yes",
-    "difficulty":"Intermediate",
-    "length":"Medium",
+    "difficulty":2,
+    "length":2,
     "skillReqs": {
       "crafting":20,
       "thieving":25
@@ -297,8 +297,8 @@
   {
     "name":"Darkness of Hallowvale",
     "members":"Yes",
-    "difficulty":"Intermediate",
-    "length":"Very Long",
+    "difficulty":2,
+    "length":4,
     "skillReqs": {
       "construction":5,
       "mining":20,
@@ -313,16 +313,16 @@
   {
     "name":"Death Plateau",
     "members":"Yes",
-    "difficulty":"Novice",
-    "length":"Medium",
+    "difficulty":1,
+    "length":2,
     "skillReqs": {},
     "questReqs": []
   },
   {
     "name":"Death to the Dorgeshuun",
     "members":"Yes",
-    "difficulty":"Intermediate",
-    "length":"Medium",
+    "difficulty":2,
+    "length":2,
     "skillReqs": {
       "agility":23,
       "thieving":23
@@ -332,8 +332,8 @@
   {
     "name":"The Depths of Despair",
     "members":"Yes",
-    "difficulty":"Novice",
-    "length":"Short",
+    "difficulty":1,
+    "length":1,
     "skillReqs": {
       "agility":18
     },
@@ -342,8 +342,8 @@
   {
     "name":"Desert Treasure",
     "members":"Yes",
-    "difficulty":"Master",
-    "length":"Long",
+    "difficulty":4,
+    "length":3,
     "skillReqs": {
       "thieving":53,
       "firemaking":50,
@@ -355,8 +355,8 @@
   {
     "name":"Devious Minds",
     "members":"Yes",
-    "difficulty":"Experienced",
-    "length":"Short",
+    "difficulty":3,
+    "length":1,
     "skillReqs": {
       "smithing":65,
       "runecraft":50,
@@ -367,8 +367,8 @@
   {
     "name":"The Dig Site",
     "members":"Yes",
-    "difficulty":"Intermediate",
-    "length":"Medium",
+    "difficulty":2,
+    "length":2,
     "skillReqs": {
       "agility":10,
       "herblore":10,
@@ -379,8 +379,8 @@
   {
     "name":"Dragon Slayer II",
     "members":"Yes",
-    "difficulty":"Grandmaster",
-    "length":"Very Long",
+    "difficulty":5,
+    "length":4,
     "skillReqs": {
       "magic":75,
       "smithing":70,
@@ -397,32 +397,32 @@
   {
     "name":"Dream Mentor",
     "members":"Yes",
-    "difficulty":"Master",
-    "length":"Medium",
+    "difficulty":4,
+    "length":2,
     "skillReqs": {},
     "questReqs": ["Lunar Diplomacy","Eadgar's Ruse"]
   },
   {
     "name":"Druidic Ritual",
     "members":"Yes",
-    "difficulty":"Novice",
-    "length":"Short",
+    "difficulty":1,
+    "length":1,
     "skillReqs": {},
     "questReqs": []
   },
   {
     "name":"Dwarf Cannon",
     "members":"Yes",
-    "difficulty":"Novice",
-    "length":"Short",
+    "difficulty":1,
+    "length":1,
     "skillReqs": {},
     "questReqs": []
   },
   {
     "name":"Eadgar's Ruse",
     "members":"Yes",
-    "difficulty":"Experienced",
-    "length":"Medium",
+    "difficulty":3,
+    "length":2,
     "skillReqs": {
       "herblore":31
     },
@@ -431,8 +431,8 @@
   {
     "name":"Eagles' Peak",
     "members":"Yes",
-    "difficulty":"Novice",
-    "length":"Medium",
+    "difficulty":1,
+    "length":2,
     "skillReqs": {
       "hunter":27
     },
@@ -441,8 +441,8 @@
   {
     "name":"Elemental Workshop I",
     "members":"Yes",
-    "difficulty":"Novice",
-    "length":"Short",
+    "difficulty":1,
+    "length":1,
     "skillReqs": {
       "mining":20,
       "smithing":20,
@@ -453,8 +453,8 @@
   {
     "name":"Elemental Workshop II",
     "members":"Yes",
-    "difficulty":"Intermediate",
-    "length":"Medium",
+    "difficulty":2,
+    "length":2,
     "skillReqs": {
       "magic":20,
       "smithing":30
@@ -464,8 +464,8 @@
   {
     "name":"Enakhra's Lament",
     "members":"Yes",
-    "difficulty":"Experienced",
-    "length":"Medium",
+    "difficulty":3,
+    "length":2,
     "skillReqs": {
       "crafting":50,
       "firemaking":45,
@@ -478,8 +478,8 @@
   {
     "name":"Enlightened Journey",
     "members":"Yes",
-    "difficulty":"Intermediate",
-    "length":"Short",
+    "difficulty":2,
+    "length":1,
     "skillReqs": {
       "firemaking":20,
       "farming":30,
@@ -491,8 +491,8 @@
   {
     "name":"The Eyes of Glouphrie",
     "members":"Yes",
-    "difficulty":"Intermediate",
-    "length":"Medium",
+    "difficulty":2,
+    "length":2,
     "skillReqs": {
       "construction":5,
       "magic":46,
@@ -503,16 +503,16 @@
   {
     "name":"Fairytale I - Growing Pains",
     "members":"Yes",
-    "difficulty":"Experienced",
-    "length":"Long",
+    "difficulty":3,
+    "length":3,
     "skillReqs": {},
     "questReqs": ["Lost City","Nature Spirit"]
   },
   {
     "name":"Fairytale II - Cure a Queen",
     "members":"Yes",
-    "difficulty":"Experienced",
-    "length":"Medium",
+    "difficulty":3,
+    "length":2,
     "skillReqs": {
       "thieving":40,
       "farming":49,
@@ -523,8 +523,8 @@
   {
     "name":"Family Crest",
     "members":"Yes",
-    "difficulty":"Experienced",
-    "length":"Medium",
+    "difficulty":3,
+    "length":2,
     "skillReqs": {
       "mining":40,
       "smithing":40,
@@ -536,8 +536,8 @@
   {
     "name":"The Feud",
     "members":"Yes",
-    "difficulty":"Intermediate",
-    "length":"Medium",
+    "difficulty":2,
+    "length":2,
     "skillReqs": {
       "thieving":30
     },
@@ -546,16 +546,16 @@
   {
     "name":"Fight Arena",
     "members":"Yes",
-    "difficulty":"Experienced",
-    "length":"Short",
+    "difficulty":3,
+    "length":1,
     "skillReqs": {},
     "questReqs": []
   },
   {
     "name":"Fishing Contest",
     "members":"Yes",
-    "difficulty":"Novice",
-    "length":"Short",
+    "difficulty":1,
+    "length":1,
     "skillReqs": {
       "fishing":10
     },
@@ -564,8 +564,8 @@
   {
     "name":"Forgettable Tale...",
     "members":"Yes",
-    "difficulty":"Intermediate",
-    "length":"Long",
+    "difficulty":2,
+    "length":3,
     "skillReqs": {
       "cooking":22,
       "farming":17
@@ -575,8 +575,8 @@
   {
     "name":"The Fremennik Isles",
     "members":"Yes",
-    "difficulty":"Experienced",
-    "length":"Long",
+    "difficulty":3,
+    "length":3,
     "skillReqs": {
       "construction":20,
       "agility":40,
@@ -588,8 +588,8 @@
   {
     "name":"The Fremennik Trials",
     "members":"Yes",
-    "difficulty":"Intermediate",
-    "length":"Long",
+    "difficulty":2,
+    "length":3,
     "skillReqs": {
       "fletching":25,
       "woodcutting":40,
@@ -600,8 +600,8 @@
   {
     "name":"Garden of Tranquillity",
     "members":"Yes",
-    "difficulty":"Intermediate",
-    "length":"Long",
+    "difficulty":2,
+    "length":3,
     "skillReqs": {
       "farming":25
     },
@@ -610,16 +610,16 @@
   {
     "name":"Gertrude's Cat",
     "members":"Yes",
-    "difficulty":"Novice",
-    "length":"Short",
+    "difficulty":1,
+    "length":1,
     "skillReqs": {},
     "questReqs": []
   },
   {
     "name":"Ghosts Ahoy",
     "members":"Yes",
-    "difficulty":"Intermediate",
-    "length":"Long",
+    "difficulty":2,
+    "length":3,
     "skillReqs": {
       "agility":25,
       "cooking":20
@@ -629,8 +629,8 @@
   {
     "name":"The Giant Dwarf",
     "members":"Yes",
-    "difficulty":"Intermediate",
-    "length":"Long",
+    "difficulty":2,
+    "length":3,
     "skillReqs": {
       "crafting":12,
       "firemaking":16,
@@ -642,8 +642,8 @@
   {
     "name":"The Golem",
     "members":"Yes",
-    "difficulty":"Intermediate",
-    "length":"Medium",
+    "difficulty":2,
+    "length":2,
     "skillReqs": {
       "crafting":20,
       "thieving":25
@@ -653,8 +653,8 @@
   {
     "name":"The Grand Tree",
     "members":"Yes",
-    "difficulty":"Experienced",
-    "length":"Long",
+    "difficulty":3,
+    "length":3,
     "skillReqs": {
       "agility":25
     },
@@ -663,8 +663,8 @@
   {
     "name":"The Great Brain Robbery",
     "members":"Yes",
-    "difficulty":"Experienced",
-    "length":"Medium",
+    "difficulty":3,
+    "length":2,
     "skillReqs": {
       "crafting":16,
       "construction":30,
@@ -675,8 +675,8 @@
   {
     "name":"Grim Tales",
     "members":"Yes",
-    "difficulty":"Master",
-    "length":"Medium",
+    "difficulty":4,
+    "length":2,
     "skillReqs": {
       "farming":45,
       "herblore":52,
@@ -689,8 +689,8 @@
   {
     "name":"The Hand in the Sand",
     "members":"Yes",
-    "difficulty":"Intermediate",
-    "length":"Medium",
+    "difficulty":2,
+    "length":2,
     "skillReqs": {
       "thieving":17,
       "crafting":49
@@ -700,8 +700,8 @@
   {
     "name":"Haunted Mine",
     "members":"Yes",
-    "difficulty":"Experienced",
-    "length":"Medium",
+    "difficulty":3,
+    "length":2,
     "skillReqs": {
       "agility":15,
       "crafting":35
@@ -711,16 +711,16 @@
   {
     "name":"Hazeel Cult",
     "members":"Yes",
-    "difficulty":"Novice",
-    "length":"Short",
+    "difficulty":1,
+    "length":1,
     "skillReqs": {},
     "questReqs": []
   },
   {
     "name":"Heroes' Quest",
     "members":"Yes",
-    "difficulty":"Experienced",
-    "length":"Medium",
+    "difficulty":3,
+    "length":2,
     "skillReqs": {
       "cooking":53,
       "fishing":53,
@@ -733,8 +733,8 @@
   {
     "name":"Holy Grail",
     "members":"Yes",
-    "difficulty":"Intermediate",
-    "length":"Medium",
+    "difficulty":2,
+    "length":2,
     "skillReqs": {
       "attack":20
     },
@@ -743,8 +743,8 @@
   {
     "name":"Horror from the Deep",
     "members":"Yes",
-    "difficulty":"Experienced",
-    "length":"Short",
+    "difficulty":3,
+    "length":1,
     "skillReqs": {
       "agility":35
     },
@@ -753,16 +753,16 @@
   {
     "name":"Icthlarin's Little Helper",
     "members":"Yes",
-    "difficulty":"Intermediate",
-    "length":"Medium",
+    "difficulty":2,
+    "length":2,
     "skillReqs": {},
     "questReqs": ["Gertrude's Cat"]
   },
   {
     "name":"In Aid of the Myreque",
     "members":"Yes",
-    "difficulty":"Intermediate",
-    "length":"Long",
+    "difficulty":2,
+    "length":3,
     "skillReqs": {
       "crafting":25,
       "mining":15,
@@ -774,8 +774,8 @@
   {
     "name":"In Search of the Myreque",
     "members":"Yes",
-    "difficulty":"Intermediate",
-    "length":"Short",
+    "difficulty":2,
+    "length":1,
     "skillReqs": {
       "agility":25
     },
@@ -784,8 +784,8 @@
   {
     "name":"Jungle Potion",
     "members":"Yes",
-    "difficulty":"Novice",
-    "length":"Short",
+    "difficulty":1,
+    "length":1,
     "skillReqs": {
       "herblore":3
     },
@@ -794,8 +794,8 @@
   {
     "name":"King's Ransom",
     "members":"Yes",
-    "difficulty":"Experienced",
-    "length":"Medium",
+    "difficulty":3,
+    "length":2,
     "skillReqs": {
       "magic":45,
       "defence":65
@@ -805,8 +805,8 @@
   {
     "name":"Legends' Quest",
     "members":"Yes",
-    "difficulty":"Master",
-    "length":"Very Long",
+    "difficulty":4,
+    "length":4,
     "skillReqs": {
       "agility":50,
       "crafting":50,
@@ -825,8 +825,8 @@
   {
     "name":"Lost City",
     "members":"Yes",
-    "difficulty":"Experienced",
-    "length":"Short",
+    "difficulty":3,
+    "length":1,
     "skillReqs": {
       "crafting":31,
       "woodcutting":36
@@ -836,8 +836,8 @@
   {
     "name":"The Lost Tribe",
     "members":"Yes",
-    "difficulty":"Intermediate",
-    "length":"Medium",
+    "difficulty":2,
+    "length":2,
     "skillReqs": {
       "agility":13,
       "thieving":13,
@@ -848,8 +848,8 @@
   {
     "name":"Lunar Diplomacy",
     "members":"Yes",
-    "difficulty":"Experienced",
-    "length":"Long",
+    "difficulty":3,
+    "length":3,
     "skillReqs": {
       "crafting":61,
       "defence":40,
@@ -864,40 +864,40 @@
   {
     "name":"Making History",
     "members":"Yes",
-    "difficulty":"Intermediate",
-    "length":"Short",
+    "difficulty":2,
+    "length":1,
     "skillReqs": {},
     "questReqs": ["The Restless Ghost","Priest in Peril"]
   },
   {
     "name":"Merlin's Crystal",
     "members":"Yes",
-    "difficulty":"Intermediate",
-    "length":"Short",
+    "difficulty":2,
+    "length":1,
     "skillReqs": {},
     "questReqs": []
   },
   {
     "name":"Monk's Friend",
     "members":"Yes",
-    "difficulty":"Novice",
-    "length":"Short",
+    "difficulty":1,
+    "length":1,
     "skillReqs": {},
     "questReqs": []
   },
   {
     "name":"Monkey Madness I",
     "members":"Yes",
-    "difficulty":"Master",
-    "length":"Long",
+    "difficulty":4,
+    "length":3,
     "skillReqs": {},
     "questReqs": ["The Grand Tree","Tree Gnome Village"]
   },
   {
     "name":"Monkey Madness II",
     "members":"Yes",
-    "difficulty":"Grandmaster",
-    "length":"Very Long",
+    "difficulty":5,
+    "length":4,
     "skillReqs": {
       "slayer":69,
       "crafting":70,
@@ -911,8 +911,8 @@
   {
     "name":"Mountain Daughter",
     "members":"Yes",
-    "difficulty":"Intermediate",
-    "length":"Medium",
+    "difficulty":2,
+    "length":2,
     "skillReqs": {
       "agility":20
     },
@@ -921,8 +921,8 @@
   {
     "name":"Mourning's Ends Part I",
     "members":"Yes",
-    "difficulty":"Master",
-    "length":"Long",
+    "difficulty":4,
+    "length":3,
     "skillReqs": {
       "ranged":60,
       "thieving":50
@@ -932,24 +932,24 @@
   {
     "name":"Mourning's Ends Part II",
     "members":"Yes",
-    "difficulty":"Master",
-    "length":"Very Long",
+    "difficulty":4,
+    "length":4,
     "skillReqs": {},
     "questReqs": ["Mourning's Ends Part I"]
   },
   {
     "name":"Murder Mystery",
     "members":"Yes",
-    "difficulty":"Novice",
-    "length":"Short",
+    "difficulty":1,
+    "length":1,
     "skillReqs": {},
     "questReqs": []
   },
   {
     "name":"My Arm's Big Adventure",
     "members":"Yes",
-    "difficulty":"Intermediate",
-    "length":"Medium",
+    "difficulty":2,
+    "length":2,
     "skillReqs": {
       "woodcutting":10,
       "farming":29
@@ -959,8 +959,8 @@
   {
     "name":"Nature Spirit",
     "members":"Yes",
-    "difficulty":"Novice",
-    "length":"Medium",
+    "difficulty":1,
+    "length":2,
     "skillReqs": {
       "crafting":18
     },
@@ -969,8 +969,8 @@
   {
     "name":"Observatory Quest",
     "members":"Yes",
-    "difficulty":"Novice",
-    "length":"Short",
+    "difficulty":1,
+    "length":1,
     "skillReqs": {
       "crafting":10
     },
@@ -979,8 +979,8 @@
   {
     "name":"Olaf's Quest",
     "members":"Yes",
-    "difficulty":"Intermediate",
-    "length":"Short",
+    "difficulty":2,
+    "length":1,
     "skillReqs": {
       "firemaking":40,
       "woodcutting":50
@@ -990,8 +990,8 @@
   {
     "name":"One Small Favour",
     "members":"Yes",
-    "difficulty":"Experienced",
-    "length":"Very Long",
+    "difficulty":3,
+    "length":4,
     "skillReqs": {
       "agility":36,
       "crafting":25,
@@ -1003,40 +1003,40 @@
   {
     "name":"Plague City",
     "members":"Yes",
-    "difficulty":"Novice",
-    "length":"Short",
+    "difficulty":1,
+    "length":1,
     "skillReqs": {},
     "questReqs": []
   },
   {
     "name":"Priest in Peril",
     "members":"Yes",
-    "difficulty":"Novice",
-    "length":"Medium",
+    "difficulty":1,
+    "length":2,
     "skillReqs": {},
     "questReqs": []
   },
   {
     "name":"The Queen of Thieves",
     "members":"Yes",
-    "difficulty":"Novice",
-    "length":"Short",
+    "difficulty":1,
+    "length":1,
     "skillReqs": {},
     "questReqs": ["Client of Kourend"]
   },
   {
     "name":"Rag and Bone Man",
     "members":"Yes",
-    "difficulty":"Novice",
-    "length":"Medium",
+    "difficulty":1,
+    "length":2,
     "skillReqs": {},
     "questReqs": []
   },
   {
     "name":"Rag and Bone Man II",
     "members":"Yes",
-    "difficulty":"Intermediate",
-    "length":"Long",
+    "difficulty":2,
+    "length":3,
     "skillReqs": {
       "slayer":40,
       "defence":20
@@ -1046,16 +1046,16 @@
   {
     "name":"Ratcatchers",
     "members":"Yes",
-    "difficulty":"Intermediate",
-    "length":"Long",
+    "difficulty":2,
+    "length":3,
     "skillReqs": {},
     "questReqs": ["Icthlarin's Little Helper"]
   },
   {
     "name":"Recipe for Disaster/Another Cook's Quest",
     "members":"Yes",
-    "difficulty":"Other",
-    "length":"Short",
+    "difficulty":6,
+    "length":1,
     "skillReqs": {
       "cooking":10
     },
@@ -1064,8 +1064,8 @@
   {
     "name":"Recipe for Disaster/Freeing Evil Dave",
     "members":"Yes",
-    "difficulty":"Other",
-    "length":"Medium",
+    "difficulty":6,
+    "length":2,
     "skillReqs": {
       "cooking":25
     },
@@ -1074,8 +1074,8 @@
   {
     "name":"Recipe for Disaster/Freeing King Awowogei",
     "members":"Yes",
-    "difficulty":"Other",
-    "length":"Long",
+    "difficulty":6,
+    "length":3,
     "skillReqs": {
       "cooking":70,
       "agility":48
@@ -1085,8 +1085,8 @@
   {
     "name":"Recipe for Disaster/Freeing Pirate Pete",
     "members":"Yes",
-    "difficulty":"Other",
-    "length":"Medium",
+    "difficulty":6,
+    "length":2,
     "skillReqs": {
       "cooking":31,
       "crafting":42
@@ -1096,8 +1096,8 @@
   {
     "name":"Recipe for Disaster/Freeing Sir Amik Varze",
     "members":"Yes",
-    "difficulty":"Other",
-    "length":"Medium",
+    "difficulty":6,
+    "length":2,
     "skillReqs": {
       "questpoints":107
     },
@@ -1106,8 +1106,8 @@
   {
     "name":"Recipe for Disaster/Freeing Skrach Uglogwee",
     "members":"Yes",
-    "difficulty":"Other",
-    "length":"Medium",
+    "difficulty":6,
+    "length":2,
     "skillReqs": {
       "cooking":41,
       "firemaking":20
@@ -1117,16 +1117,16 @@
   {
     "name":"Recipe for Disaster/Freeing the Goblin generals",
     "members":"Yes",
-    "difficulty":"Other",
-    "length":"Short",
+    "difficulty":6,
+    "length":1,
     "skillReqs": {},
     "questReqs": ["Goblin Diplomacy"]
   },
   {
     "name":"Recipe for Disaster/Freeing the Lumbridge Guide",
     "members":"Yes",
-    "difficulty":"Other",
-    "length":"Short",
+    "difficulty":6,
+    "length":1,
     "skillReqs": {
       "cooking":40
     },
@@ -1135,16 +1135,16 @@
   {
     "name":"Recipe for Disaster/Freeing the Mountain dwarf",
     "members":"Yes",
-    "difficulty":"Other",
-    "length":"Short",
+    "difficulty":6,
+    "length":1,
     "skillReqs": {},
     "questReqs": ["Fishing Contest"]
   },
   {
     "name":"Recruitment Drive",
     "members":"Yes",
-    "difficulty":"Novice",
-    "length":"Short",
+    "difficulty":1,
+    "length":1,
     "skillReqs": {
       "questpoints":12
     },
@@ -1153,8 +1153,8 @@
   {
     "name":"Regicide",
     "members":"Yes",
-    "difficulty":"Master",
-    "length":"Long",
+    "difficulty":4,
+    "length":3,
     "skillReqs": {
       "agility":56,
       "crafting":10
@@ -1164,8 +1164,8 @@
   {
     "name":"Roving Elves",
     "members":"Yes",
-    "difficulty":"Master",
-    "length":"Medium",
+    "difficulty":4,
+    "length":2,
     "skillReqs": {
       "agility":56
     },
@@ -1174,8 +1174,8 @@
   {
     "name":"Royal Trouble",
     "members":"Yes",
-    "difficulty":"Experienced",
-    "length":"Medium",
+    "difficulty":3,
+    "length":2,
     "skillReqs": {
       "agility":40,
       "slayer":40
@@ -1185,8 +1185,8 @@
   {
     "name":"Rum Deal",
     "members":"Yes",
-    "difficulty":"Experienced",
-    "length":"Medium",
+    "difficulty":3,
+    "length":2,
     "skillReqs": {
       "crafting":42,
       "fishing":50,
@@ -1199,8 +1199,8 @@
   {
     "name":"Scorpion Catcher",
     "members":"Yes",
-    "difficulty":"Intermediate",
-    "length":"Medium",
+    "difficulty":2,
+    "length":2,
     "skillReqs": {
       "prayer":31
     },
@@ -1209,8 +1209,8 @@
   {
     "name":"Sea Slug",
     "members":"Yes",
-    "difficulty":"Intermediate",
-    "length":"Short",
+    "difficulty":2,
+    "length":1,
     "skillReqs": {
       "firemaking":30
     },
@@ -1219,8 +1219,8 @@
   {
     "name":"Shades of Mort'ton",
     "members":"Yes",
-    "difficulty":"Intermediate",
-    "length":"Short",
+    "difficulty":2,
+    "length":1,
     "skillReqs": {
       "crafting":20,
       "herblore":15,
@@ -1231,8 +1231,8 @@
   {
     "name":"Shadow of the Storm",
     "members":"Yes",
-    "difficulty":"Intermediate",
-    "length":"Medium",
+    "difficulty":2,
+    "length":2,
     "skillReqs": {
       "crafting":30
     },
@@ -1241,16 +1241,16 @@
   {
     "name":"Sheep Herder",
     "members":"Yes",
-    "difficulty":"Novice",
-    "length":"Short",
+    "difficulty":1,
+    "length":1,
     "skillReqs": {},
     "questReqs": []
   },
   {
     "name":"Shilo Village",
     "members":"Yes",
-    "difficulty":"Experienced",
-    "length":"Long",
+    "difficulty":3,
+    "length":3,
     "skillReqs": {
       "crafting":20,
       "agility":32,
@@ -1261,8 +1261,8 @@
   {
     "name":"The Slug Menace",
     "members":"Yes",
-    "difficulty":"Intermediate",
-    "length":"Medium",
+    "difficulty":2,
+    "length":2,
     "skillReqs": {
       "crafting":30,
       "runecraft":30,
@@ -1274,16 +1274,16 @@
   {
     "name":"A Soul's Bane",
     "members":"Yes",
-    "difficulty":"Novice",
-    "length":"Medium",
+    "difficulty":1,
+    "length":2,
     "skillReqs": {},
     "questReqs": []
   },
   {
     "name":"Spirits of the Elid",
     "members":"Yes",
-    "difficulty":"Intermediate",
-    "length":"Short",
+    "difficulty":2,
+    "length":1,
     "skillReqs": {
       "magic":33,
       "ranged":37,
@@ -1295,8 +1295,8 @@
   {
     "name":"Swan Song",
     "members":"Yes",
-    "difficulty":"Master",
-    "length":"Medium",
+    "difficulty":4,
+    "length":2,
     "skillReqs": {
       "magic":66,
       "cooking":62,
@@ -1311,8 +1311,8 @@
   {
     "name":"Tai Bwo Wannai Trio",
     "members":"Yes",
-    "difficulty":"Intermediate",
-    "length":"Long",
+    "difficulty":2,
+    "length":3,
     "skillReqs": {
       "agility":15,
       "cooking":30,
@@ -1324,16 +1324,16 @@
   {
     "name":"A Tail of Two Cats",
     "members":"Yes",
-    "difficulty":"Intermediate",
-    "length":"Long",
+    "difficulty":2,
+    "length":3,
     "skillReqs": {},
     "questReqs": ["Icthlarin's Little Helper"]
   },
   {
     "name":"Tale of the Rightous",
     "members":"Yes",
-    "difficulty":"Novice",
-    "length":"Short",
+    "difficulty":1,
+    "length":1,
     "skillReqs": {
       "strength":16,
       "mining":10
@@ -1343,8 +1343,8 @@
   {
     "name":"Tears of Guthix",
     "members":"Yes",
-    "difficulty":"Intermediate",
-    "length":"Short",
+    "difficulty":2,
+    "length":1,
     "skillReqs": {
       "firemaking":49,
       "crafting":20,
@@ -1356,8 +1356,8 @@
   {
     "name":"Temple of Ikov",
     "members":"Yes",
-    "difficulty":"Experienced",
-    "length":"Medium",
+    "difficulty":3,
+    "length":2,
     "skillReqs": {
       "thieving":42,
       "ranged":40
@@ -1367,8 +1367,8 @@
   {
     "name":"Throne of Miscellania",
     "members":"Yes",
-    "difficulty":"Experienced",
-    "length":"Medium",
+    "difficulty":3,
+    "length":2,
     "skillReqs": {
       "woodcutting":45,
       "farming":10,
@@ -1381,8 +1381,8 @@
   {
     "name":"The Tourist Trap",
     "members":"Yes",
-    "difficulty":"Intermediate",
-    "length":"Medium",
+    "difficulty":2,
+    "length":2,
     "skillReqs": {
       "fletching":10,
       "smithing":20
@@ -1392,8 +1392,8 @@
   {
     "name":"Tower of Life",
     "members":"Yes",
-    "difficulty":"Novice",
-    "length":"Medium",
+    "difficulty":1,
+    "length":2,
     "skillReqs": {
       "construction":10
     },
@@ -1402,16 +1402,16 @@
   {
     "name":"Tree Gnome Village",
     "members":"Yes",
-    "difficulty":"Intermediate",
-    "length":"Medium",
+    "difficulty":2,
+    "length":2,
     "skillReqs": {},
     "questReqs": []
   },
   {
     "name":"Tribal Totem",
     "members":"Yes",
-    "difficulty":"Intermediate",
-    "length":"Short",
+    "difficulty":2,
+    "length":1,
     "skillReqs": {
       "thieving":21
     },
@@ -1420,8 +1420,8 @@
   {
     "name":"Troll Romance",
     "members":"Yes",
-    "difficulty":"Experienced",
-    "length":"Medium",
+    "difficulty":3,
+    "length":2,
     "skillReqs": {
       "woodcutting":45,
       "agility":28
@@ -1431,8 +1431,8 @@
   {
     "name":"Troll Stronghold",
     "members":"Yes",
-    "difficulty":"Experienced",
-    "length":"Short",
+    "difficulty":3,
+    "length":1,
     "skillReqs": {
       "agility":15
     },
@@ -1441,8 +1441,8 @@
   {
     "name":"Underground Pass",
     "members":"Yes",
-    "difficulty":"Experienced",
-    "length":"Long",
+    "difficulty":3,
+    "length":3,
     "skillReqs": {
       "ranged":25
     },
@@ -1451,8 +1451,8 @@
   {
     "name":"Wanted!",
     "members":"Yes",
-    "difficulty":"Intermediate",
-    "length":"Long",
+    "difficulty":2,
+    "length":3,
     "skillReqs": {
       "questpoints":32
     },
@@ -1461,8 +1461,8 @@
   {
     "name":"Watchtower",
     "members":"Yes",
-    "difficulty":"Intermediate",
-    "length":"Long",
+    "difficulty":2,
+    "length":3,
     "skillReqs": {
       "magic":15,
       "thieving":15,
@@ -1475,16 +1475,16 @@
   {
     "name":"Waterfall Quest",
     "members":"Yes",
-    "difficulty":"Intermediate",
-    "length":"Medium",
+    "difficulty":2,
+    "length":2,
     "skillReqs": {},
     "questReqs": []
   },
   {
     "name":"What Lies Below",
     "members":"Yes",
-    "difficulty":"Intermediate",
-    "length":"Medium",
+    "difficulty":2,
+    "length":2,
     "skillReqs": {
       "runecraft":35,
       "mining":42
@@ -1494,16 +1494,16 @@
   {
     "name":"Witch's House",
     "members":"Yes",
-    "difficulty":"Intermediate",
-    "length":"Short",
+    "difficulty":2,
+    "length":1,
     "skillReqs": {},
     "questReqs": []
   },
   {
     "name":"Zogre Flesh Eaters",
     "members":"Yes",
-    "difficulty":"Intermediate",
-    "length":"Medium",
+    "difficulty":2,
+    "length":2,
     "skillReqs": {
       "smithing":4,
       "herblore":8,
@@ -1516,7 +1516,7 @@
   {
     "name":"Alfred Grimhand's Barcrawl",
     "members":"Yes",
-    "difficulty":"Other",
+    "difficulty":6,
     "length":"Mini",
     "skillReqs": {},
     "questReqs": []
@@ -1524,7 +1524,7 @@
   {
     "name":"Architectural Alliance",
     "members":"Yes",
-    "difficulty":"Other",
+    "difficulty":6,
     "length":"Mini",
     "skillReqs": {
       "crafting":30,
@@ -1536,7 +1536,7 @@
   {
     "name":"Bear your Soul",
     "members":"Yes",
-    "difficulty":"Other",
+    "difficulty":6,
     "length":"Mini",
     "skillReqs": {},
     "questReqs": []
@@ -1544,7 +1544,7 @@
   {
     "name":"Curse of the Empty Lord",
     "members":"Yes",
-    "difficulty":"Other",
+    "difficulty":6,
     "length":"Mini",
     "skillReqs": {},
     "questReqs": ["Desert Treasure"]
@@ -1552,7 +1552,7 @@
   {
     "name":"Enchanted Key",
     "members":"Yes",
-    "difficulty":"Other",
+    "difficulty":6,
     "length":"Mini",
     "skillReqs": {},
     "questReqs": ["Making History"]
@@ -1560,7 +1560,7 @@
   {
     "name":"Enter the Abyss",
     "members":"Yes",
-    "difficulty":"Other",
+    "difficulty":6,
     "length":"Mini",
     "skillReqs": {},
     "questReqs": ["Rune Mysteries"]
@@ -1568,7 +1568,7 @@
   {
     "name":"Family Pest",
     "members":"Yes",
-    "difficulty":"Other",
+    "difficulty":6,
     "length":"Mini",
     "skillReqs": {},
     "questReqs": ["Family Crest"]
@@ -1576,7 +1576,7 @@
   {
     "name":"The General's Shadow",
     "members":"Yes",
-    "difficulty":"Other",
+    "difficulty":6,
     "length":"Mini",
     "skillReqs": {},
     "questReqs": ["Fight Arena","Curse of the Empty Lord","Desert Treasure"]
@@ -1584,7 +1584,7 @@
   {
     "name":"Lair of Tarn Razorlor",
     "members":"Yes",
-    "difficulty":"Other",
+    "difficulty":6,
     "length":"Mini",
     "skillReqs": {
       "slayer":40
@@ -1594,7 +1594,7 @@
   {
     "name":"The Mage Arena",
     "members":"Yes",
-    "difficulty":"Other",
+    "difficulty":6,
     "length":"Mini",
     "skillReqs": {
       "magic":60
@@ -1604,7 +1604,7 @@
   {
     "name":"The Mage Arena II",
     "members":"Yes",
-    "difficulty":"Other",
+    "difficulty":6,
     "length":"Mini",
     "skillReqs": {
       "magic":75
@@ -1614,7 +1614,7 @@
   {
     "name":"Skippy and the Mogres",
     "members":"Yes",
-    "difficulty":"Other",
+    "difficulty":6,
     "length":"Mini",
     "skillReqs": {},
     "questReqs": []
