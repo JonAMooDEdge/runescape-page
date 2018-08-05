@@ -1,5 +1,4 @@
 import React, { PureComponent } from 'react'
-import {Grid, Row, Col} from 'react-bootstrap'
 import SkillIcons from './SkillIcons';
 import './characterView.css'
 
