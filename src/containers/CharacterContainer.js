@@ -7,9 +7,9 @@ export default class CharacterContainer extends PureComponent {
     
     return (
       <div>
-        <CharacterRetrieve getCharacter={this.props.getCharacter}/>
+        <CharacterRetrieve getCharacter={this.props.getCharacter} clearPlayer={this.props.clearPlayer}/>
         {this.props.characterName && this.props.player ?
-        <CharacterView character={this.props.player} name={this.props.characterName}/>: null}      
+        <CharacterView character={this.props.player} name={this.props.characterName} isChecked={this.props.isChecked} toggleQuests={this.props.toggleQuests}/>: null}      
       </div>
     )  
   }

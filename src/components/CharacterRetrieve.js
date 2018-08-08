@@ -1,5 +1,5 @@
 import React, { PureComponent } from 'react'
-import {FormGroup, FormControl, ControlLabel, Button} from 'react-bootstrap'
+import {Form, FormGroup, FormControl, ControlLabel, Button, Col, InputGroup, Glyphicon} from 'react-bootstrap'
 
 export default class CharacterRetrieve extends PureComponent {
   state={
@@ -8,21 +8,39 @@ export default class CharacterRetrieve extends PureComponent {
   
   handleChange = (e) => {
       this.setState({playerName: e.target.value});
+      e.target.value = '';
+  }
+
+  clearPlayer = () => {
+    this.props.clearPlayer();
+
+    this.setState({playerName : ''})
   }
 
   render() {
     return (
-      <div>
+      <Form horizontal>
         <FormGroup>
-            <ControlLabel>Player Name</ControlLabel>
-            <FormControl
+          <Col componentClass={ControlLabel} sm={2}>
+            <strong>Player Name</strong>
+          </Col>
+          <Col sm={8}>
+            <InputGroup>
+              <FormControl
                 type="text"
                 value={this.state.playerName}
                 onChange={this.handleChange}    
-            />
-            <Button onClick={() => this.props.getCharacter(this.state.playerName)}>Get Character</Button>
+              />
+              <InputGroup.Button>
+                <Button onClick={this.clearPlayer}><Glyphicon glyph="remove-circle"/></Button>
+              </InputGroup.Button>
+            </InputGroup>
+          </Col>
+          <Col sm={1}>
+            <Button onClick={() => this.props.getCharacter(this.state.playerName)}>Go!</Button>
+          </Col>
         </FormGroup>
-      </div>
+      </Form>
     )
   }
 }

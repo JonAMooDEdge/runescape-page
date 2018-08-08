@@ -1,31 +1,30 @@
 import React, { PureComponent } from 'react'
+import QuestView from '../components/QuestView';
 
 export default class QuestContainer extends PureComponent {
-  convertDifficulty = (difficulty) => {
-      switch(parseInt(difficulty)){
-          case 1:
-            return "Novice"
-          case 2:
-            return "Intermediate"
-          case 3:
-            return "Experienced"
-          case 4:
-            return "Master"
-          case 5: 
-            return "Grandmaster"
-          case 6:
-            return "Other"
-      }
-  }
-
   render() {
-    var {quests} = this.props;
-    var sortedQuests = quests.sort((a,b) => parseInt(a.difficulty) - parseInt(b.difficulty))
+    var {quests, completedQuests, completeQuest, removeCompletedQuest} = this.props;
+    var sortedQuests = quests.sort((a,b) => {
+      if(parseInt(a.difficulty) > parseInt(b.difficulty)) return 1;
+      if(parseInt(a.difficulty) < parseInt(b.difficulty)) return -1;
+      if(a.name > b.name) return 1;
+      if(b.name > a.name) return -1;
+    });
     return (
-      <div>
-        {sortedQuests.map(quest => {
-            return <p>{quest.name} - {this.convertDifficulty(quest.difficulty)}</p>
-        })}
+      <div>                
+        <div>
+        {sortedQuests.length !== this.props.totalQuests ? <span><strong>Eligible for {sortedQuests.length} out of {this.props.totalQuests} quests</strong></span>:
+        <span><strong>Displaying all {this.props.totalQuests} quests</strong></span>}
+        </div>
+        <br/>        
+        <input type="checkbox" id="hideComplete" defaultChecked={this.props.hideComplete} onChange={() => this.props.hideCompleted()}/>
+        <label htmlFor="hideComplete">Hide Completed</label>
+      <QuestView 
+        quests={sortedQuests} 
+        completedQuests={completedQuests}
+        completeQuest={completeQuest}
+        removeCompletedQuest={removeCompletedQuest}
+        />
       </div>
     )
   }

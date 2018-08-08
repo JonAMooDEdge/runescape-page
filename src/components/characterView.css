@@ -1,7 +1,15 @@
 .skill-matrix {
     flex-wrap: wrap;
-    width: 90%;
     margin: auto;
     text-align: left;
-    padding-left: 1em
+    padding-left: 1em;
+    border-collapse: collapse !important;    
+}
+
+.skill-table {
+  border: grey 1px solid !important; 
+  border-collapse: collapse !important;
+  padding-top: 1em;
+  padding-bottom: 1em;
+  text-align: center;
 }
